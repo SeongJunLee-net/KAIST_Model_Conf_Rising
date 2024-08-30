@@ -1,0 +1,22 @@
+model : gpt2
+out_dir : ./results
+data_dir : ./dataset/intervention_data/
+data_name : gpt2_is_finetuning_True
+trained : True
+# subj
+# last
+token_pos : last
+# entropy
+# prob
+# False
+editing : entropy
+# [Total]
+# [Indirect]
+# False
+intervention_type : False
+
+
+
+
+
+

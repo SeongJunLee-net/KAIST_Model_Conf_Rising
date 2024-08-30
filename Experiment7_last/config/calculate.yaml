@@ -1,0 +1,4 @@
+model_task_name : gpt2_is_finetuning_false
+measure : variance
+intervention_type : Indirect
+word : all # how to play task?( all or individual )
